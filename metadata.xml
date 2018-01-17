@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>Tales of the Malayan Coast</dc:title>
+      <dc:creator>Rounsevelle Wildman (1864–1901)</dc:creator>
+      <dc:creator>Henry Sandham (1842–1910)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2009-01-12</dc:publisher>
+      <dc:date>2009-01-12</dc:date>
+      <dc:rights>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org.
+This eBook is produced by Jeroen Hellingman and the Online Distributed Proofreading Team at www.pgdp.net.
+Scans of this book are available from:
+
+The Internet Archive, (used for the illustrations).
+    Google Books, University of Michigan. (used for the illustrations of the author and admiral Dewey, and page images for proofreading; TIA Copy)
+    Google Books, Harvard University. (TIA Copy)
+
+</dc:rights>
+      <dc:subject>Philippines - Fiction</dc:subject>
+      <dc:subject>Malaya - Fiction</dc:subject>
+      <dc:identifier>pg:27784</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
